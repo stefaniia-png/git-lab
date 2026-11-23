@@ -1,0 +1,1 @@
+brand=Lanos factory=ZAZ price=12000.00 engine=v1234
